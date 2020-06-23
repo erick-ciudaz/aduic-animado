@@ -1,0 +1,19 @@
+{
+  "name": "aduic-animado",
+  "version": "1.0.0",
+  "description": "modulo para facilitar la declaracion de animaciones en vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erick-ciudaz/aduic-animado.git"
+  },
+  "author": "Erick Ciuda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erick-ciudaz/aduic-animado/issues"
+  },
+  "homepage": "https://github.com/erick-ciudaz/aduic-animado#readme"
+}
