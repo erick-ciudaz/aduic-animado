@@ -1,6 +1,6 @@
 import AduicAnimacion from './AduicAnimacion'
 
-export const AduicAnimadoPlugin = {
+export default {
 	install(Vue) {
 		
 		let elementosAnimados = {}

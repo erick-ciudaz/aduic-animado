@@ -1,4 +1,4 @@
-export class AduicAnimacion{
+export default class AduicAnimacion{
 	
 
 	constructor( opcionesDeDirectiva ){
